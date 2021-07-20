@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Some technologies and skills
+#### Some technologies and skills
 
 * PHP back / VueJS front
 * AWS / Docker / Ansible
