@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### Some technologies and skills
+### Some of my technology expertise
 
 ```sh
 PHP / Laravel / Vue / Typescript / AWS / Docker / Ansible / Python / Bash
