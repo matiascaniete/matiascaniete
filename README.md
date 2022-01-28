@@ -1,11 +1,9 @@
-### Hi there 👋
+## Hi 👋
 
-#### Some technologies and skills
+### Some technologies and skills
 
 ```sh
-PHP back / VueJS front
-AWS / Docker / Ansible
-Python / Bash scripting
+PHP / Laravel / Vue / Typescript / AWS / Docker / Ansible / Python / Bash
 ```
 
 <!--
