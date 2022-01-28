@@ -1,9 +1,9 @@
 ## Hi 👋
 
-### Some of my technology expertise
+### these are some of my technology areas of expertise
 
 ```sh
-PHP / Laravel / Vue / Typescript / AWS / Docker / Ansible / Python / Bash
+PHP / Laravel / Vue / Typescript / AWS / Docker / Python / Bash / Raspberry Pi / Arduino
 ```
 
 <!--
